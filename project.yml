@@ -1,4 +1,8 @@
 packages:
+  - name: sample
+    actions:
+      - name: hello
+        runtime: 'nodejs:default'
   - name: noodl-cli
     actions:
       - name: hello
