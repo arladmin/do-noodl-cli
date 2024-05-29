@@ -1,0 +1,16 @@
+{
+  "name": "noodl-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@noodl/noodl-cli": "^2.9.1-beta.2306041506",
+    "@types/node": "^18.0.6"
+  }
+}
